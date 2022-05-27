@@ -1,1 +1,1 @@
-Shel basics
+Shell basics
