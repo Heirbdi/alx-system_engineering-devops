@@ -1,2 +1,3 @@
-#!/bin/bash
-sort | uniq -u
+[master 89648ce] Unique
+ 4 files changed, 11 insertions(+), 6 deletions(-)
+ create mode 100755 0x02-shell_redirections/13-unique
