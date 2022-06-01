@@ -1,2 +1,3 @@
-#!/bin/bash
-find . -empty -printf "%f\n"
+[master 5e385a9] All directory and file empty
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x02-shell_redirections/100-empty_casks
