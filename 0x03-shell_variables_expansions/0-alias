@@ -1,2 +1,2 @@
-#!/bin/bash
-alias ls='rm *'
+[master 41bbbde] Alias
+ 1 file changed, 2 insertions(+)
